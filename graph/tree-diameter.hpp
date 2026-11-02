@@ -1,7 +1,11 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-// 返り値: {直径の辺数, 端点から端点までの頂点列}
+/**
+ * 直径の長さと端点二つを返す
+ * 
+ * 返り値: {直径の辺数, 端点から端点までの頂点列}
+ */
 pair<int, vector<int>> tree_diameter(const vector<vector<int>>& g, int ord=0) {
 
     int n = g.size();
@@ -44,5 +48,5 @@ vector<int> tree_center(const vector<vector<int>>& g) {
     auto [d, path] = tree_diameter(g);
     if (d % 2 == 0) return {path[d / 2]};
     return {path[d / 2], path[d / 2 + 1]};
-    
+
 }
