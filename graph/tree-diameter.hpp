@@ -1,3 +1,6 @@
+// GitHub Link
+// https://github.com/ritemosu/CP_Library/blob/main/graph/tree-diameter.hpp
+
 #include <bits/stdc++.h>
 using namespace std;
 

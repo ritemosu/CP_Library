@@ -1,3 +1,6 @@
+// GitHub Link
+// https://github.com/ritemosu/CP_Library/blob/main/geom/arg_sort.cpp
+
 #include <bits/stdc++.h>
 using namespace std;
 using ll = long long;

@@ -1,3 +1,6 @@
+// GitHub Link
+// https://github.com/ritemosu/CP_Library/blob/main/math/Eratosthenes.cpp
+
 #include <bits/stdc++.h>
 using namespace std;
 

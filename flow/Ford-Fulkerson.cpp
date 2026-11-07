@@ -1,4 +1,6 @@
 /***
+ * GitHub Link
+ * https://github.com/ritemosu/CP_Library/blob/main/flow/Ford-Fulkerson.cpp
  * 
  * 計算量(F|E|)の重めの最大フローアルゴリズムです。
  * 学習用に作ったからあまり使うことはないかも

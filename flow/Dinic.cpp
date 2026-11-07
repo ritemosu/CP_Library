@@ -1,4 +1,7 @@
 /***
+ * GitHub Link
+ * https://github.com/ritemosu/CP_Library/blob/main/flow/Dinic.cpp
+ * 
  * 最大フローに使えるアルゴリズムで、多くの場合二部マッチング問題ではO(N\sqrt{N})で解けるとされているらしい。
  */
 

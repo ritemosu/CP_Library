@@ -1,3 +1,6 @@
+// GitHub Link
+// https://github.com/ritemosu/CP_Library/blob/main/math/comb.cpp
+
 #include <bits/stdc++.h>
 #include <atcoder/all>
 using namespace std;

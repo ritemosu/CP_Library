@@ -1,3 +1,6 @@
+// GitHub Link
+// https://github.com/ritemosu/CP_Library/blob/main/graph/rerooting.hpp
+
 #include <cassert>
 #include <functional>
 #include <vector>
